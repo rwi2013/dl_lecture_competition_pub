@@ -2,3 +2,8 @@ torch
 torchvision
 torchaudio
 pandas
+ftfy
+regex
+tqdm
+git+https://github.com/openai/CLIP.git
+transformers
